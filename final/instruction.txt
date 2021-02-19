@@ -1,2 +1,4 @@
-In the app.js file, functionRunner executes a callback, log.
-Convert log in to an anonymous function and pass the anonymous function directly into functionRunner.
+We have a page with 3 buttons.
+Our goal is to apply the spinElement callback to btn1, btn2, and btn3.
+The spinElement function should be triggered on the click event.
+Modify the code in the app.js file to add the event listener to every button.

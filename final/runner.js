@@ -1,3 +1,0 @@
-function functionRunner(callback) {
-  callback();
-}

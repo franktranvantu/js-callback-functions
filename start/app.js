@@ -1,5 +1,8 @@
-function log() {
-  console.log("Hello World!");
-}
+const btn1 = document.getElementById("button1");
+const btn2 = document.getElementById("button2");
+const btn3 = document.getElementById("button3");
 
-functionRunner(log);
+function spinElement(event) {
+  //Applies spinning animation to button element
+  event.target.className = "spin";
+}
