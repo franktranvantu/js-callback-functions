@@ -19,6 +19,6 @@ function addStyleToElement(element, callback) {
     callback(element);
 }
 
-addStyleToElement(div1, makeRed);
-addStyleToElement(div2, makeBlue);
-addStyleToElement(div3, makeGreen);
+addStyleToElement(div1, makeRed);   // makeRed(div1)
+addStyleToElement(div2, makeBlue);  // makeBlue(div2)
+addStyleToElement(div3, makeGreen); // makeGreen(div3)
