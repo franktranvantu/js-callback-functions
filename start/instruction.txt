@@ -1,0 +1,3 @@
+There is some code in the app.js file that needs to be completed.
+functionRunner has one argument missing, the callback.
+Use the log function as a callback in the functionRunner.

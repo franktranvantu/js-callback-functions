@@ -1,1 +1,0 @@
-In this section we'll create our own callback function and a function that will execute our callback.
