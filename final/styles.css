@@ -4,12 +4,25 @@ body {
 }
 section {
   background: #fff;
-  padding: 1em;
+  padding: 2em;
   max-width: 400px;
   margin: 100px auto 0;
   box-shadow: 0 0 1em #222;
   border-radius: 5px;
   text-align: center;
-  font-family: 'VT323', monospace;
-  font-size: 4em;
+  font-size: 1.5em;
+}
+.spin {
+  animation-name: spin;
+  animation-duration: 1000ms;
+  animation-iteration-count: 1;
+  animation-timing-function: linear;
+}
+@keyframes spin {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }
 }

@@ -1,0 +1,4 @@
+We have a function startAnimation.
+The startAnimation function should be triggered 2 seconds after the page loads.
+Update the code to do this.
+Don't use an anonymous function.

@@ -1,1 +1,0 @@
-In this section we'll use a repeat timer in the form of the `setInterval` function to modify the display of a clock.
