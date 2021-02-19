@@ -1,9 +1,13 @@
-function sayHello() {
-    console.log('Hello');
-}
-
 function executeCallback(callback) {
     callback();
 }
 
-executeCallback(sayHello);
+// Print Hello
+executeCallback(function() {
+    console.log('Hello');
+});
+
+// Print Goodbye
+executeCallback(function() {
+    console.log('Goodbye');
+});

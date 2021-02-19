@@ -1,1 +1,1 @@
-In this section we'll create our own callback function and a function that will execute our callback.
+In this section we'll convert our function declaration in to an anonymous function.
