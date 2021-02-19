@@ -1,1 +1,1 @@
-In this section we'll explore callbacks that can take arguments.
+In this section we'll use event handlers for the focus and blur events.
