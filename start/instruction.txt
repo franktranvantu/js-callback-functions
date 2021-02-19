@@ -1,3 +1,2 @@
-There is some code in the app.js file that needs to be completed.
-functionRunner has one argument missing, the callback.
-Use the log function as a callback in the functionRunner.
+In the app.js file, functionRunner executes a callback, log.
+Convert log in to an anonymous function and pass the anonymous function directly into functionRunner.

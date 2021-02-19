@@ -1,5 +1,1 @@
-function log() {
-  console.log("Hello World!");
-}
-
-functionRunner(log);
+functionRunner(() => console.log("Hello World!"));

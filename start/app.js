@@ -2,4 +2,4 @@ function log() {
   console.log("Hello World!");
 }
 
-functionRunner();
+functionRunner(log);
