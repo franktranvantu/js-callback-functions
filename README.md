@@ -1,1 +1,1 @@
-In this section we'll use event handlers for the focus and blur events.
+In this section we'll use the same callback for multiple HTML elements.
