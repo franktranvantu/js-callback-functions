@@ -1,1 +1,1 @@
-In this section we'll convert our function declaration in to an anonymous function.
+In this section we'll convert our anonymous function in to an arrow function.
